@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Marco 🧑🏻‍💻🎬</h1>
+  <h3>Computer Science Sophomore at the Universtiy of the Philippines Los Baños</h3>
+</div>
 
-<!--
-**Marcmigs/Marcmigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://img.shields.io/github/followers/Marcmigs?label=Follow%20%40Marcmigs&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Marcmigs&color=blueviolet&style=flat-square" alt="profile views"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- 🌐 Currently working on my place in the internet! (website coming soon)
+- 🧑🏻‍💻 Improving my skills on ReactJS, JavaScript, Tailwind CSS, HTML/CSS, C, Python, Swift, AWS, Git and Figma
+- 📪 Check out my certifciations and let's connect on [LinkedIn](https://www.linkedin.com/in/marcomespiritu)
