@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Marco 🧑🏻‍💻🎬</h1>
+  <h1>Hello world, I'm Marco 🧑🏻‍💻🎬</h1>
   <h3>Computer Science Sophomore at the Universtiy of the Philippines Los Baños</h3>
 </div>
 
